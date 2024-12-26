@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b564b2c-9bab-4696-96fc-1b6bc4b1cdc9" name="Changes" comment="1.0.4(chat room)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Dockerfile" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2pcJewbIuDwmHvuZNQfPELAXK7E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.ecommercProject.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;mini__chat&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/programing/djangoProject/ecommercProject/static/img&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\programing\djangoProject\ecommercProject\static\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\programing\djangoProject\ecommercProject\templates\shared\include" />
+      <recent name="F:\programing\djangoProject\ecommercProject\chat\templates\chat" />
+      <recent name="F:\programing\djangoProject\ecommercProject\static\img" />
+      <recent name="F:\programing\djangoProject\ecommercProject\accounts\templates\accounts" />
+      <recent name="F:\programing\djangoProject\ecommercProject" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ecommercProject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ecommercProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ecommercProject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b564b2c-9bab-4696-96fc-1b6bc4b1cdc9" name="Changes" comment="" />
+      <created>1733059529033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733059529033</updated>
+      <workItem from="1733059554362" duration="505000" />
+      <workItem from="1733060101070" duration="482000" />
+      <workItem from="1733087619940" duration="1462000" />
+      <workItem from="1733173740837" duration="2170000" />
+      <workItem from="1733215417714" duration="414000" />
+      <workItem from="1733215854960" duration="1001000" />
+      <workItem from="1733251842330" duration="880000" />
+      <workItem from="1733261838768" duration="2000" />
+      <workItem from="1733262532746" duration="31000" />
+      <workItem from="1733321727746" duration="5620000" />
+      <workItem from="1733327529074" duration="445000" />
+      <workItem from="1733327992331" duration="167000" />
+      <workItem from="1733338049803" duration="4068000" />
+      <workItem from="1733411326203" duration="89000" />
+      <workItem from="1733761495949" duration="4817000" />
+      <workItem from="1733766388259" duration="1453000" />
+      <workItem from="1733767881535" duration="1562000" />
+      <workItem from="1733831503103" duration="4593000" />
+      <workItem from="1733836378293" duration="745000" />
+      <workItem from="1733918265659" duration="6094000" />
+      <workItem from="1733931874567" duration="457000" />
+      <workItem from="1733993915978" duration="4756000" />
+      <workItem from="1734007224830" duration="3200000" />
+      <workItem from="1734029326526" duration="5000" />
+      <workItem from="1734098396123" duration="10136000" />
+      <workItem from="1734117871046" duration="15423000" />
+      <workItem from="1734179619219" duration="53000" />
+      <workItem from="1734190265842" duration="8448000" />
+      <workItem from="1734198900891" duration="1861000" />
+      <workItem from="1734892847081" duration="108000" />
+      <workItem from="1734892983153" duration="34000" />
+      <workItem from="1734893038299" duration="47000" />
+      <workItem from="1734893175066" duration="4032000" />
+      <workItem from="1734899177815" duration="33000" />
+      <workItem from="1734899282404" duration="1859000" />
+      <workItem from="1734954754978" duration="363000" />
+      <workItem from="1735044024025" duration="2246000" />
+      <workItem from="1735053448737" duration="2435000" />
+      <workItem from="1735066465547" duration="2120000" />
+      <workItem from="1735068614257" duration="403000" />
+      <workItem from="1735069045603" duration="3000" />
+      <workItem from="1735116326117" duration="6307000" />
+      <workItem from="1735209419208" duration="173000" />
+      <workItem from="1735210207190" duration="8000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.0.0">
+      <option name="closed" value="true" />
+      <created>1733328155176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733328155176</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.0.1">
+      <option name="closed" value="true" />
+      <created>1733924952696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733924952696</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.0.2">
+      <option name="closed" value="true" />
+      <created>1734132078814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734132078814</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.0.2">
+      <option name="closed" value="true" />
+      <created>1734132094648</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734132094648</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.0.4(chat room)">
+      <option name="closed" value="true" />
+      <created>1734900799451</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734900799451</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0.0" />
+    <MESSAGE value="1.0.1" />
+    <MESSAGE value="1.0.2" />
+    <MESSAGE value="1.0.4(chat room)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0.4(chat room)" />
+  </component>
+</project>
