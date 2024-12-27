@@ -86,10 +86,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'ecommercProject.wsgi.application'
 AUTH_USER_MODEL = 'accounts.User'
-AUTHENTICATION_BACKENDS = [
-    'django.contrib.auth.backends.ModelBackend',
-    'accounts.backends.EmailOrUsernameBackend',
-]
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
